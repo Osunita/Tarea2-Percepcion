@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PerceptionSubsys_CPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PerceptionSubsys_CPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PerceptionSubsys_CPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PerceptionSubsys_CPP">
+      <UniqueIdentifier>{2B547FD8-9080-36D8-973A-606004849FE3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PerceptionSubsys_CPP\PerceptionSubsys_CPP.Build.cs">
+      <Filter>Source\PerceptionSubsys_CPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PerceptionSubsys_CPP\PerceptionSubsys_CPP.cpp">
+      <Filter>Source\PerceptionSubsys_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PerceptionSubsys_CPP\PerceptionSubsys_CPP.h">
+      <Filter>Source\PerceptionSubsys_CPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PerceptionSubsys_CPP\PerceptionSubsys_CPPCharacter.cpp">
+      <Filter>Source\PerceptionSubsys_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PerceptionSubsys_CPP\PerceptionSubsys_CPPCharacter.h">
+      <Filter>Source\PerceptionSubsys_CPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PerceptionSubsys_CPP\PerceptionSubsys_CPPGameMode.cpp">
+      <Filter>Source\PerceptionSubsys_CPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PerceptionSubsys_CPP\PerceptionSubsys_CPPGameMode.h">
+      <Filter>Source\PerceptionSubsys_CPP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

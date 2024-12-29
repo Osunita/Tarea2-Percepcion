@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/BP_Detector.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HF/YFYBQ72OYLHJQS0TSSXGBV.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/QS/VHQF8JWOATZI5V3ZVY5YTM.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/P3/O43ETCZTFMLWWH1CJ941H2.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/TF/BNC0RAM0JQIXMW1X5NDVFU.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/T6/9NUYACFAN0TU48YLKWDOYZ.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/30/VU8P0THK4L10BPAIG7BDCI.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/MA/8KAIUQC18T9WTQYFD74EOO.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/JZ/XUJN61VPAXWM2NUYGD2VA3.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/VB/LPT47KJZHNBI55W5RJ7O6G.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/4W/WJF157D5C2DR6ODSTSX7T2.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/T8/46ZIBNTTDDR3AOR2XC9VO6.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/VL/KUT2U1MQ1ND9CXN070OTDM.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/IO/07IVU4EY14FMETPGTJULEO.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/BW/M7Z5RX3O7568TBJFK5R76I.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/6I/RU1L28PS820IOVH625A0DA.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/21/WWYX44RDCCS98492P9K9O3.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NC/UUYHDUFQAXTRRN4RVOPIUF.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/2J/AQ1PWWT9TBAI7AA470T014.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/0G/HOAJZN9E4DDI6Y1W3JU13K.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/SX/SKO7AH9HKZVPN4OMFO4DV3.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/FM/0KFJCQV830ZKL3EW4C4W2A.uasset",
+				"D:/Unreal Projects/LocalRepository/Tarea2-Percepcion/PerceptionSubsys_CPP/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/DM/KAYUWXMF1B2W6WWS41CQ8X.uasset"
+			]
+		}
+	]
+}

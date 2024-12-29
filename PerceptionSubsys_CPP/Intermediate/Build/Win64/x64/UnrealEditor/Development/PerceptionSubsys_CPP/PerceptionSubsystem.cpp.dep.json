@@ -1,0 +1,18 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\localrepository\\tarea2-percepcion\\perceptionsubsys_cpp\\source\\perceptionsubsys_cpp\\perception\\perceptionsubsystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\localrepository\\tarea2-percepcion\\perceptionsubsys_cpp\\intermediate\\build\\win64\\x64\\perceptionsubsys_cppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\localrepository\\tarea2-percepcion\\perceptionsubsys_cpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\perceptionsubsys_cpp\\definitions.perceptionsubsys_cpp.h",
+            "d:\\unreal projects\\localrepository\\tarea2-percepcion\\perceptionsubsys_cpp\\source\\perceptionsubsys_cpp\\perception\\perceptionsubsystem.h",
+            "d:\\unreal projects\\localrepository\\tarea2-percepcion\\perceptionsubsys_cpp\\source\\perceptionsubsys_cpp\\perception\\perceptioncomponent.h",
+            "d:\\unreal projects\\localrepository\\tarea2-percepcion\\perceptionsubsys_cpp\\intermediate\\build\\win64\\unrealeditor\\inc\\perceptionsubsys_cpp\\uht\\perceptioncomponent.generated.h",
+            "d:\\unreal projects\\localrepository\\tarea2-percepcion\\perceptionsubsys_cpp\\intermediate\\build\\win64\\unrealeditor\\inc\\perceptionsubsys_cpp\\uht\\perceptionsubsystem.generated.h",
+            "d:\\unrealsoftware\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\public\\engineutils.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

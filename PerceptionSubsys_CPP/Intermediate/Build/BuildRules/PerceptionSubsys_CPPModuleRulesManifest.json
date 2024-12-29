@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Unreal Projects\\LocalRepository\\Tarea2-Percepcion\\PerceptionSubsys_CPP\\Source\\PerceptionSubsys_CPP\\PerceptionSubsys_CPP.Build.cs",
+		"D:\\Unreal Projects\\LocalRepository\\Tarea2-Percepcion\\PerceptionSubsys_CPP\\Source\\PerceptionSubsys_CPP.Target.cs",
+		"D:\\Unreal Projects\\LocalRepository\\Tarea2-Percepcion\\PerceptionSubsys_CPP\\Source\\PerceptionSubsys_CPPEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.4"
+}

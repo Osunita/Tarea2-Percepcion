@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PerceptionSubsys_CPP",
+			"Path": "..\\Source\\PerceptionSubsys_CPP.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PerceptionSubsys_CPPEditor",
+			"Path": "..\\Source\\PerceptionSubsys_CPPEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

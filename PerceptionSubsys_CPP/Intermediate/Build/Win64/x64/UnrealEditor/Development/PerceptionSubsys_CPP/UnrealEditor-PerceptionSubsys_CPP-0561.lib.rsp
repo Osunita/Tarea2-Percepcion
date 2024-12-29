@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-PerceptionSubsys_CPP-0561.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\LocalRepository\Tarea2-Percepcion\PerceptionSubsys_CPP\Intermediate\Build\Win64\x64\PerceptionSubsys_CPPEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\Unreal Projects\LocalRepository\Tarea2-Percepcion\PerceptionSubsys_CPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PerceptionSubsys_CPP\PerceptionComponent.gen.cpp.obj"
+"D:\Unreal Projects\LocalRepository\Tarea2-Percepcion\PerceptionSubsys_CPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PerceptionSubsys_CPP\PerceptionSubsystem.gen.cpp.obj"
+"D:\Unreal Projects\LocalRepository\Tarea2-Percepcion\PerceptionSubsys_CPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PerceptionSubsys_CPP\PerceptionSubsys_CPP.init.gen.cpp.obj"
+"D:\Unreal Projects\LocalRepository\Tarea2-Percepcion\PerceptionSubsys_CPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PerceptionSubsys_CPP\PerceptionSubsys_CPPCharacter.gen.cpp.obj"
+"D:\Unreal Projects\LocalRepository\Tarea2-Percepcion\PerceptionSubsys_CPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PerceptionSubsys_CPP\PerceptionSubsys_CPPGameMode.gen.cpp.obj"
+"D:\Unreal Projects\LocalRepository\Tarea2-Percepcion\PerceptionSubsys_CPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PerceptionSubsys_CPP\PerceptionSubsys_CPP.cpp.obj"
+"D:\Unreal Projects\LocalRepository\Tarea2-Percepcion\PerceptionSubsys_CPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PerceptionSubsys_CPP\PerceptionSubsys_CPPCharacter.cpp.obj"
+"D:\Unreal Projects\LocalRepository\Tarea2-Percepcion\PerceptionSubsys_CPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PerceptionSubsys_CPP\PerceptionSubsys_CPPGameMode.cpp.obj"
+"D:\Unreal Projects\LocalRepository\Tarea2-Percepcion\PerceptionSubsys_CPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PerceptionSubsys_CPP\PerceptionComponent.cpp.obj"
+"D:\Unreal Projects\LocalRepository\Tarea2-Percepcion\PerceptionSubsys_CPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PerceptionSubsys_CPP\PerceptionSubsystem.cpp.obj"
+"D:\Unreal Projects\LocalRepository\Tarea2-Percepcion\PerceptionSubsys_CPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PerceptionSubsys_CPP\Default.rc2.res"
+/OUT:"D:\Unreal Projects\LocalRepository\Tarea2-Percepcion\PerceptionSubsys_CPP\Intermediate\Build\Win64\x64\UnrealEditor\Development\PerceptionSubsys_CPP\UnrealEditor-PerceptionSubsys_CPP-0561.lib"

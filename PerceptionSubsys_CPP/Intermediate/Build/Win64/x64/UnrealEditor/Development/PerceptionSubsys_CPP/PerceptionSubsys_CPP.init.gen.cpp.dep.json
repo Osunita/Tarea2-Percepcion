@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unreal projects\\localrepository\\tarea2-percepcion\\perceptionsubsys_cpp\\intermediate\\build\\win64\\unrealeditor\\inc\\perceptionsubsys_cpp\\uht\\perceptionsubsys_cpp.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unreal projects\\localrepository\\tarea2-percepcion\\perceptionsubsys_cpp\\intermediate\\build\\win64\\x64\\perceptionsubsys_cppeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\unreal projects\\localrepository\\tarea2-percepcion\\perceptionsubsys_cpp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\perceptionsubsys_cpp\\definitions.perceptionsubsys_cpp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
